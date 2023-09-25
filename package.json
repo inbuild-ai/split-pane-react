@@ -1,6 +1,6 @@
 {
   "name": "@inbuild/split-pane-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Resizable split panes for React.js.",
   "main": "./esm/index.js",
   "module": "./esm/index.js",
@@ -46,7 +46,7 @@
     "typescript": "^4.6.3",
     "vite": "^2.9.9"
   },
-  "repository": "https://github.com/yyllff/split-pane-react",
+  "repository": "https://github.com/inbuild-ai/split-pane-react",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
